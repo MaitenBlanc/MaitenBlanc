@@ -17,9 +17,31 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Java, Python, PHP  
-- **Frameworks y librerías:** Angular, React.js, Node.js, NestJS, Spring Boot  
-- **Bases de datos:** MySQL, PostgreSQL, Oracle, MongoDB  
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 - **Análisis de datos:** Power BI, Looker Studio, SQL, Python (Pandas, NumPy)  
 - **Otros:** Git, GitHub, Bootstrap  
 
@@ -75,3 +97,6 @@
 ---
 
 ✨ *“Siempre abierta a conectar, colaborar y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+</p>
