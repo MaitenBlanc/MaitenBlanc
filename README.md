@@ -42,8 +42,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-- **Análisis de datos:** Power BI, Looker Studio, SQL, Python (Pandas, NumPy)  
-- **Otros:** Git, GitHub, Bootstrap  
 
 ---
 
@@ -98,5 +96,5 @@
 
 ✨ *“Siempre abierta a conectar, colaborar y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=MaitenBlanc&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
