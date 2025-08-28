@@ -95,6 +95,3 @@
 ---
 
 ✨ *“Siempre abierta a conectar, colaborar y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaitenBlanc&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
-</p>
