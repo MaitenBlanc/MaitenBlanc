@@ -97,7 +97,7 @@
 ---
 ## 📫 Conectemos
 - 📧 **Email:** maitengblanc@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/maiten-guadalupe-blanc
-- 🌐 **Portfolio:** www.maitenblanc.github.io/Portfolio-MB/
+- 💼 **LinkedIn:** [www.linkedin.com/in/maiten-guadalupe-blanc](https://www.linkedin.com/in/maiten-guadalupe-blanc)
+- 🌐 **Portfolio:** [www.maitenblanc.github.io/Portfolio/](https://maitenblanc.github.io/Portfolio/)
 
 ✨ *“Siempre abierta a conectar con profesionales del sector, colaborar en entornos ágiles y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*
