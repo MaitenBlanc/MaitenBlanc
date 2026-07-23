@@ -1,8 +1,8 @@
 # Hola mundo! Soy Maitén Blanc 👋
 
-🎓 Desarrolladora de Software enfocada en arquitecturas modernas y estudiante avanzada de **Licenciatura en Sistemas de Información (UADER - FCyT)**.
-🚀 Construyendo aplicaciones escalables mediante microfrontends y microservicios, asegurando la calidad del software a través de Clean Code y testing automatizado. 
-🤝 Actuando como puente entre la lógica robusta del sistema y la experiencia intuitiva del usuario, impulsada por mi vocación docente y el trabajo colaborativo.  
+🎓 Desarrolladora de Software enfocada en arquitecturas modernas y estudiante avanzada de **Licenciatura en Sistemas de Información (UADER - FCyT)**.  
+🚀 Construyendo aplicaciones escalables mediante microfrontends y microservicios, asegurando la calidad del software a través de Clean Code y testing automatizado.   
+🤝 Actuando como puente entre la lógica robusta del sistema y la experiencia intuitiva del usuario, impulsada por mi vocación docente y el trabajo colaborativo.   
 
 ---
 
@@ -83,10 +83,6 @@
 
 ---
 ## 📊 Mis estadísticas en GitHub
-
-| 📈 Estadísticas |
-|-----------------|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=MaitenBlanc&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MaitenBlanc&theme=tokyonight&margin-w=15&margin-h=15" alt="MaitenBlanc Trophies" />
