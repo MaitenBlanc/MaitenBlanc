@@ -1,18 +1,18 @@
-# Hola mundo! Soy Maitén Blanc 👋  
+# Hola mundo! Soy Maitén Blanc 👋
 
-🎓 Estudiante de **Licenciatura en Sistemas de Información** en la **Universidad Autónoma de Entre Ríos (UADER - FCyT)**.  
-💻 Apasionada por la **tecnología y el desarrollo de software**, con experiencia desarrollo web y análisis de datos.  
-🚀 Siempre en búsqueda de entornos **desafiantes y colaborativos** donde pueda aprender, aportar valor y seguir creciendo.  
+🎓 Desarrolladora de Software enfocada en arquitecturas modernas y estudiante avanzada de **Licenciatura en Sistemas de Información (UADER - FCyT)**.
+🚀 Construyendo aplicaciones escalables mediante microfrontends y microservicios, asegurando la calidad del software a través de Clean Code y testing automatizado. 
+🤝 Actuando como puente entre la lógica robusta del sistema y la experiencia intuitiva del usuario, impulsada por mi vocación docente y el trabajo colaborativo.  
 
 ---
 
 ## 💡 Sobre mí
-- 👩‍💻 Desarrollo **Front-End** con **Angular, React.js, TypeScript y JavaScript**.  
-- ⚙️ Conocimientos en **Back-End**: Java, Spring Boot, Node.js, NestJS.  
-- 🗄️ Bases de datos: PostgreSQL, MySQL, Oracle y MongoDB.  
-- 📊 Data Analytics con **Python, Power BI, Looker Studio, Power Query**.  
-- 🌐 Experiencia en **Low-Code/ERP** con Deyel y AppSheet.  
-- 📚 Intereses: Business Agility, Emprendedurismo y Marketing Digital.  
+  - 👩‍💻 **Desarrollo Front-End:** Especializada en arquitecturas escalables con **Angular**, React.js, TypeScript y JavaScript.
+  - ⚙️ **Desarrollo Back-End:** Construcción de APIs y microservicios utilizando **Java (Spring Boot)**, Node.js y NestJS.
+  - 🧪 **Testing y Calidad:** Implementación de pruebas automatizadas E2E y funcionales orientadas a flujos complejos con **Cypress**.
+  - 🐳 **Herramientas y DevOps:** Gestión de repositorios con Git/Bitbucket, y configuración de entornos locales y CMS (Moodle, Drupal) mediante **Docker Compose**. 
+  - 🗄️ **Bases de datos:** PostgreSQL, MySQL, Oracle y MongoDB.
+  - 📊 **Data Analytics:** Python, Power BI, Looker Studio, Power Query y SQL.  
 
 ---
 
@@ -46,16 +46,17 @@
 ---
 
 ## 📂 Experiencia
+- 💻 **Desarrolladora Front End – Moby Digital** (Febrero 2026 - Actualidad)
+  *Desarrollo de microfrontends con Angular 21, implementación de pruebas E2E con Cypress y configuración de CMS en entornos locales con Docker.*  
+
 - 👩‍🏫 **Ayudante de Cátedra – UADER** (2025 - Actualidad)  
-  *Fundamentos de Programación: asistencia a profesores y alumnos.*  
+  *Fundamentos de Programación: asistencia técnica, dictado de clases teóricas/prácticas y apoyo continuo a estudiantes.*  
 
-- 💻 **Desarrolladora de Software – Intes Consulting** (2023)  
-  *Aplicaciones web en Deyel, sistemas CRM, desarrollo de páginas web.*  
+- 💻 **Desarrolladora de Software – Intes Consulting** (2023 - 2024)  
+  *Desarrollo de aplicaciones web en plataformas Low-Code (Deyel), implementación de sistemas CRM y diseño de APIs REST.*  
 
-- 🖥️ **Soporte Técnico / Analista – Zona Troya** (2022 - 2023)  
-  *Soporte L1-L3, análisis de sistemas, scripts PL/SQL en Oracle.*  
-
-- 🔧 **Freelance – Reparación de equipos informáticos** (2016 - Actualidad)  
+- 🔧 **Freelance – Reparación de equipos informáticos** (2016 - Actualidad)
+    *Formateo, reparación de hardware y configuración de software.*
 
 ---
 
@@ -66,12 +67,14 @@
 ---
 
 ## 📜 Cursos y certificaciones destacadas
-- Argentina Programa 4.0 – Desarrollo Front-End  
+- Udemy - Angular: De cero a experto.
+- Udemy - ReactiveX - RxJs: De cero hasta los detalles.
+- Udemy - Principios SOLID y Clean Code.
+- Udemy - Cypress: E2E Automation Testing con JS, a fondo.
 - Oracle ONE – Front End (React), Back End (Java + Spring Boot), Python Data Science, SQL  
+- Laboratorio Gugler - Programación en Java.
 - NTT Data Foundation – Python Data Analyst  
 - IBM & Guayerd – Data Analytics  
-- Full Stack Node – Open Bootcamp  
-- Deyel Citizen Developer & Developer Plus  
 
 ---
 
@@ -83,15 +86,12 @@
 
 | 📈 Estadísticas |
 |-----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaitenBlanc&show_icons=true&theme=tokyonight) |
+| [![trophy](https://github-profile-trophy.vercel.app/?MaitenBlanc=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
 ## 📫 Conectemos
-- 📧 **Email:** [maitengblanc@gmail.com](mailto:maitengblanc@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/maiten-guadalupe-blanc](https://www.linkedin.com/in/maiten-guadalupe-blanc)  
-- 🌐 **Portfolio:** [maitenblanc.github.io/Portfolio-MB/](https://maitenblanc.github.io/Portfolio-MB/)  
+- 📧 **Email:** maitengblanc@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/maiten-guadalupe-blanc
+- 🌐 **Portfolio:** www.maitenblanc.github.io/Portfolio-MB/
 
----
-
-✨ *“Siempre abierta a conectar, colaborar y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*  
+✨ *“Siempre abierta a conectar con profesionales del sector, colaborar en entornos ágiles y descubrir nuevas oportunidades en el apasionante mundo de la tecnología.”*
