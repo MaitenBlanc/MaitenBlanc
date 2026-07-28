@@ -9,12 +9,12 @@
 ---
 
 ## 💡 Sobre mí
-  - 👩‍💻 **Desarrollo Front-End:** Especializada en arquitecturas escalables con **Angular**, React.js, TypeScript y JavaScript.
+  - 👩‍💻 **Desarrollo Front-End:** Especializada en arquitecturas escalables (standalone components, integraciones shell) con **Angular**, React.js, TypeScript y JavaScript.
   - ⚙️ **Desarrollo Back-End:** Construcción de APIs y microservicios utilizando **Java (Spring Boot)**, Node.js y NestJS.
   - 🧪 **Testing y Calidad:** Implementación de pruebas automatizadas E2E y funcionales orientadas a flujos complejos con **Cypress**.
   - 🐳 **Herramientas y DevOps:** Gestión de repositorios con Git/Bitbucket, y configuración de entornos locales y CMS (Moodle, Drupal) mediante **Docker Compose**. 
   - 🗄️ **Bases de datos:** PostgreSQL, MySQL, Oracle y MongoDB.
-  - 📊 **Data Analytics:** Python, Power BI, Looker Studio, Power Query y SQL.  
+  - 📊 **Data Analytics:** Python, Power BI, Looker Studio, Power Query y SQL.
 
 ---
 
@@ -38,27 +38,28 @@
 </p>
 
 <p align="center">
-  <!-- Bases de datos -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Testing, DevOps y Bases de datos -->
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📂 Experiencia
-- 💻 **Desarrolladora Front End – Moby Digital** (Febrero 2026 - Actualidad)
-  *Desarrollo de microfrontends con Angular 21, implementación de pruebas E2E con Cypress y configuración de CMS en entornos locales con Docker.*  
+- 💻 **Desarrolladora Front End – Moby Digital** (02/2026 - Actualidad)
+  *Desarrollo arquitecturas de microfrontends y microservicios con Angular 21, aseguro la calidad mediante pruebas E2E con Cypress y configuro entornos locales eficientes con Docker.*
 
-- 👩‍🏫 **Ayudante de Cátedra – UADER** (2025 - Actualidad)  
-  *Fundamentos de Programación: asistencia técnica, dictado de clases teóricas/prácticas y apoyo continuo a estudiantes.*  
+- 👩‍🏫 **Ayudante de Cátedra – UADER** (03/2025 - Actualidad)  
+  *Brindo soporte académico, dicto clases prácticas y facilito el aprendizaje de lógica computacional y fundamentos de programación.*
 
-- 💻 **Desarrolladora de Software – Intes Consulting** (2023 - 2024)  
-  *Desarrollo de aplicaciones web en plataformas Low-Code (Deyel), implementación de sistemas CRM y diseño de APIs REST.*  
+- 💻 **Desarrolladora de Software – Intes Consulting** (09/2023 - 01/2024)  
+  *Desarrollé aplicaciones web mediante plataformas Low-Code (Deyel), integré APIs REST y mantuve sistemas empresariales (CRM).*
 
-- 🔧 **Freelance – Reparación de equipos informáticos** (2016 - Actualidad)
-    *Formateo, reparación de hardware y configuración de software.*
+- 🔧 **Soporte Técnico - Freelance** (2016 - Actualidad)
+    *Resolución de incidentes de hardware, formateo y configuración de software.*
 
 ---
 
@@ -73,10 +74,10 @@
 - Udemy - ReactiveX - RxJs: De cero hasta los detalles.
 - Udemy - Principios SOLID y Clean Code.
 - Udemy - Cypress: E2E Automation Testing con JS, a fondo.
-- Oracle ONE – Front End (React), Back End (Java + Spring Boot), Python Data Science, SQL  
+- Oracle ONE – Front End (React), Back End (Java + Spring Boot), Python Data Science, SQL.
 - Laboratorio Gugler - Programación en Java.
-- NTT Data Foundation – Python Data Analyst  
-- IBM & Guayerd – Data Analytics  
+- NTT Data Foundation – Python Data Analyst.
+- IBM & Guayerd – Data Analytics.
 
 ---
 
